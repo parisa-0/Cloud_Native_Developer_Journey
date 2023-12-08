@@ -21,4 +21,17 @@ Add origin git repo to remote repo
 git remote add origin
 git push -u origin master
 
+clear
+move history out of view - can still scroll up
+
+Basic Commands:
+git status
+Tracked files in previous git snapshot: committed, modified, staged
+Untracked files: new file that didn't exist in last commit snapshot
+Use git add to track file
+git diff --Staged 
+git commit - a (commit all files in staging)
+
+
+
 */

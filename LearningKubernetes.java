@@ -8,4 +8,6 @@ Container images and Trivy scanning tool to understadn potential issues with clu
 minikube.sigs.k8s.io/docs/start
 
 https://docs.cilium.io/en/latest/security/policy/kubernetes/#namespaces
+
+https://docs.cilium.io/en/latest/security/policy/kubernetes/#namespaces
 */

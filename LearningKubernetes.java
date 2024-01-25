@@ -10,4 +10,6 @@ minikube.sigs.k8s.io/docs/start
 https://docs.cilium.io/en/latest/security/policy/kubernetes/#namespaces
 
 https://docs.cilium.io/en/latest/security/policy/kubernetes/#namespaces
+
+https://kube.academy - containers 101
 */
